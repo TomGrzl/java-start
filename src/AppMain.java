@@ -9,7 +9,7 @@ public class AppMain {
 
         System.out.print(Summe);
 
-
+System.out.println("Test";
 
     }
 }
